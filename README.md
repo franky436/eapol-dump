@@ -1,4 +1,4 @@
-# eapol-dump.sh
+# eapol-dump
 Small script for dumping and analyzing EAPOLs from a .cap file in order to find non-broken 4-way handshakes
 
 Use this to extract a clean EAPOL handshake ("consecutive" frame numbers, e.g. 1001, 1003, 1005, 1007!) by using the 4 frame numbers of the handshake:
